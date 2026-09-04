@@ -1,2 +1,911 @@
-# Myrepom3u
-Iptv
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Pasárgada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TK4KTXt3mQAgq09GxmohNz9PTM.jpg" group-title="Filmes | Nacionais",Pasárgada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Árvore" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/gG7OCpt6hwp8DA2cfYs2kFhtpcZ.jpg" group-title="Filmes | Nacionais",A Casa da Árvore
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite Não é Nada" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/4gAeS6GhBmJJkCAgspP1bpFHFgB.jpg" group-title="Filmes | Nacionais",Uma Noite Não é Nada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passagrana" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/g9tAi6v6cinBDItrW0fW4HoweNq.jpg" group-title="Filmes | Nacionais",Passagrana
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabrito" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/5509S5iHCcdASVsjxfAa3pZEqbA.jpg" group-title="Filmes | Nacionais",Cabrito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ainda Somos os Mesmos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zV9lYXZ7lO2TSL3HljbSvW5UVbf.jpg" group-title="Filmes | Nacionais",Ainda Somos os Mesmos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grande Sertão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zVtQgPN7KZn4f9oE2nVFVYx4Hqw.jpg" group-title="Filmes | Nacionais",Grande Sertão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noé - Uma Adaptação da Novela Gênesis" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/5laTANyEApcIFj3xeP0tcwYyb00.jpg" group-title="Filmes | Nacionais",Noé - Uma Adaptação da Novela Gênesis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saudade Fez Morada Aqui Dentro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/nlmT2IYvGddQjYLLOMZlEnduFTx.jpg" group-title="Filmes | Nacionais",Saudade Fez Morada Aqui Dentro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silvio" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8iu6Qf8v6KcIjfKRciGvjINn3PS.jpg" group-title="Filmes | Nacionais",Silvio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Armário Mágico" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8cZtxGSSlsT4V7688xqPNFVhgHx.jpg" group-title="Filmes | Nacionais",O Armário Mágico
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abraço de Mãe" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/2kZIKn4eLqGzyqOpW7ZpaBACQHW.jpg" group-title="Filmes | Nacionais",Abraço de Mãe
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karsmênia" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6V0iiGV1N6rmnkf7BtMSdPAF1Aj.jpg" group-title="Filmes | Nacionais",Karsmênia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maníaco do Parque" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/vytA7BTXLBD4UjXOVUh2pPBTlUQ.jpg" group-title="Filmes | Nacionais",Maníaco do Parque
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estômago 2: O Poderoso Chef" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/21zKw6hhZaJxFyCDRHcS3E3BUzd.jpg" group-title="Filmes | Nacionais",Estômago 2: O Poderoso Chef
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Daniel" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/aTG0jw336YpAHMBkPO6kFwokiaV.jpg" group-title="Filmes | Nacionais",A História de Daniel
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motel Destino" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/isBmcF2171BTGHUWTN0Kkx4IfrR.jpg" group-title="Filmes | Nacionais",Motel Destino
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tô de Graça: O Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tDeYq4V4T7WQ1YFU6KuLGxO0iDh.jpg" group-title="Filmes | Nacionais",Tô de Graça: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Asas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/yiWLES8Qi2asuvowtQjTn2njZeX.jpg" group-title="Filmes | Nacionais",Sem Asas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acordo com Lampião? Só na Boca do Fuzil!" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9CFCWTCvNPNZ8hXpOzWwO3IYVDy.jpg" group-title="Filmes | Nacionais",Acordo com Lampião? Só na Boca do Fuzil!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apaixonada" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ih0G409JNF8L7Maz3tQwPnLOjD7.jpg" group-title="Filmes | Nacionais",Apaixonada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nove Águas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zX2iJYrifGtB1WEXZf0tgELgt3F.jpg" group-title="Filmes | Nacionais",Nove Águas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levante" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/v2iRhR5NZA8UhGt2UqNOZhaIkZn.jpg" group-title="Filmes | Nacionais",Levante
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baile" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/kFYk8817REQJkxv6t5wd92a1tdv.jpg" group-title="Filmes | Nacionais",Baile
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Que é Apertado Rasga" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/oMGLMiAQ3ZFvhBnSBLZZwgf66oi.jpg" group-title="Filmes | Nacionais",Tudo Que é Apertado Rasga
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Negrum3" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/xcHHFYr4tFuXMCdVxG7AD3MtOKY.jpg" group-title="Filmes | Nacionais",Negrum3
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lia: O Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ezwHLeWLPWMZ4tkEzk0EbED6VXK.jpg" group-title="Filmes | Nacionais",Lia: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joderism" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tIvRKVUUTWle8lrkLxImqfw6ShH.jpg" group-title="Filmes | Nacionais",Joderism
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duda" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8bJ0eyI21JtjMo0obfwFYcZyjil.jpg" group-title="Filmes | Nacionais",Duda
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dela" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uiQaDyeSS8eeDlY0ts7CUuBJQiO.jpg" group-title="Filmes | Nacionais",Dela
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonde" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/rEGQY8zndw6u6Hl2RQsCqPe6sud.jpg" group-title="Filmes | Nacionais",Bonde
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Família" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/5J8KnkntdwdiqUNJWGaJrNc8sO9.jpg" group-title="Filmes | Nacionais",Doce Família
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avassaladoras 2.0" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wNwWEO0duLwqO6EkwnfeUZZ1AW6.jpg" group-title="Filmes | Nacionais",Avassaladoras 2.0
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mallandro: O Errado que Deu Certo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7qBCCfx3LkyB0181MyPaLRZNVRq.jpg" group-title="Filmes | Nacionais",Mallandro: O Errado que Deu Certo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inabitáveis" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/t44iYYVrx5kPfltVZldJS3yWcAe.jpg" group-title="Filmes | Nacionais",Inabitáveis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EGUM" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/onLPxQCcXfnx9hiuOpEPN63B8wo.jpg" group-title="Filmes | Nacionais",EGUM
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leme do Destino" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bzLAd0GAGqpQl0RFQsOuaVekoWD.jpg" group-title="Filmes | Nacionais",Leme do Destino
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Porto Príncipe" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/jY2o0TPvATZ1bIpP8UUEPJvVrkP.jpg" group-title="Filmes | Nacionais",Porto Príncipe
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas e Gi em: Dinossauros" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7NZAwKv6jGVLyMAkX7bhE5fPobE.jpg" group-title="Filmes | Nacionais",Luccas e Gi em: Dinossauros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Torre" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tn48eilAjKfGIZzUinEljgpsY1d.jpg" group-title="Filmes | Nacionais",A Torre
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Broto Legal" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7zAdCnRY4BQJBtzR6KAAXqImzxW.jpg" group-title="Filmes | Nacionais",Um Broto Legal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madame Satã" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/73wB0Z8UlmVoOKbBZj5yhgsxK3U.jpg" group-title="Filmes | Nacionais",Madame Satã
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brasil Visto do Alto" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lS2Im9AJhdd9EIuVE8ZWOs4UfnA.jpg" group-title="Filmes | Nacionais",Brasil Visto do Alto
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Sangue Ferve por Você" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7PrQWs7z5ASojTQRWOilIzm1smr.jpg" group-title="Filmes | Nacionais",Meu Sangue Ferve por Você
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gaby Estrella: O Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9sXkwWLlDVqNV4LfGvClw4wN5Rp.jpg" group-title="Filmes | Nacionais",Gaby Estrella: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bello: O Rei do Futevôlei" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/fEV1AgUhbk4RIGdezTuSQN2ZpLS.jpg" group-title="Filmes | Nacionais",Bello: O Rei do Futevôlei
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Festa de Léo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/M9mKw9YVssnrf04tOj67UPDYBQ.jpg" group-title="Filmes | Nacionais",A Festa de Léo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigos Sem Compromisso" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zUDpcPO8CAECZhUuMxjQeTGSfYB.jpg" group-title="Filmes | Nacionais",Amigos Sem Compromisso
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre sombras" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/dnYDS04jdceKDP56gak5lntcZfA.jpg" group-title="Filmes | Nacionais",Entre sombras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Férias Trocadas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lJUhkcPgDjzVnIcwfU9CGlHhBfF.jpg" group-title="Filmes | Nacionais",Férias Trocadas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidente Por Acidente" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/5DYdUfhCK2VuoB0BWSz08kRQyWH.jpg" group-title="Filmes | Nacionais",Vidente Por Acidente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Repente, Miss!" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/u2xvrqjrNG9KMyC2m2WZwh8Uv2k.jpg" group-title="Filmes | Nacionais",De Repente, Miss!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#eagoraoque" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pxLHtMGnLf22iBmmwtCvVlHdjDR.jpg" group-title="Filmes | Nacionais",#eagoraoque
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morando com o Crush" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/eZA7H3FN20qX5ppoCsdUsMSvYk4.jpg" group-title="Filmes | Nacionais",Morando com o Crush
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois é Demais em Orlando" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/2PdiazIelg7pwx9lj1KXCyeSbCP.jpg" group-title="Filmes | Nacionais",Dois é Demais em Orlando
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Lar 2: Os Mensageiros" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6cP2MENe3zOj77ndC5TvoLq8MtU.jpg" group-title="Filmes | Nacionais",Nosso Lar 2: Os Mensageiros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trash: A Esperança Vem do Lixo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/kCesDnS7cvJHLQ12cgt87GMJAaa.jpg" group-title="Filmes | Nacionais",Trash: A Esperança Vem do Lixo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aumenta que é Rock'n'Roll" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/67WBksF1VZesLtMiJjHF7eSkeUo.jpg" group-title="Filmes | Nacionais",Aumenta que é Rock'n'Roll
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apaixonada" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ih0G409JNF8L7Maz3tQwPnLOjD7.jpg" group-title="Filmes | Nacionais",Apaixonada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Farofeiros 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg" group-title="Filmes | Nacionais",Os Farofeiros 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Coração" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ySQI0tAeHh3fOskx8qWuCaNJHoW.jpg" group-title="Filmes | Nacionais",Sem Coração
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família Feliz" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6cgL3n62QkoXNbYymgeb4ZAtged.jpg" group-title="Filmes | Nacionais",Uma Família Feliz
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saudosa Maloca" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/f6ZiesutSqM65BCklfydIwCpgOb.jpg" group-title="Filmes | Nacionais",Saudosa Maloca
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Domingo à Noite" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/rZpDHf8sdAkQTinFVxe7qGTgd8R.jpg" group-title="Filmes | Nacionais",Domingo à Noite
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doleira: A História de Nelma Kodama" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zOMu5Q3jYO2v1C8MULsSmhwNzrI.jpg" group-title="Filmes | Nacionais",Doleira: A História de Nelma Kodama
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jorge da Capadócia" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ynDiIH3bfEfAoAX5MOno3BcIiZs.jpg" group-title="Filmes | Nacionais",Jorge da Capadócia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferninho" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7oPGtBiORT3ym9jqpyW1u8yUSly.jpg" group-title="Filmes | Nacionais",Inferninho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Biônicos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/oPW83uhT4jSdV41NMZEPkN0kAuT.jpg" group-title="Filmes | Nacionais",Biônicos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evidências do Amor" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ohN79eTvl1L6YvLJwYgWbkl7pw4.jpg" group-title="Filmes | Nacionais",Evidências do Amor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corpolítica" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/aNmcpT173BpoEVzbzn1cyjn1U59.jpg" group-title="Filmes | Nacionais",Corpolítica
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Casamento de Romeu e Julieta" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bbrJVncfOVG9d1URDVGFOxKj8h6.jpg" group-title="Filmes | Nacionais",O Casamento de Romeu e Julieta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Vivem os Bravos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8mydocslj2f1QCXMO07XidKWWTJ.jpg" group-title="Filmes | Nacionais",Como Vivem os Bravos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transamazonia" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/k8wXU6S3I5Xg2VaYcsdA4RaIV79.jpg" group-title="Filmes | Nacionais",Transamazonia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Partiu América" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/eLckMzlleotgKEm04IIc0CplBZC.jpg" group-title="Filmes | Nacionais",Partiu América
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meninas Não Choram" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/gdX8St8uRIeTtwvRQMI3wQCpknb.jpg" group-title="Filmes | Nacionais",Meninas Não Choram
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonhos Roubados" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/4ysoZ1Bsjbo12cqe2vtgjX6JA3g.jpg" group-title="Filmes | Nacionais",Sonhos Roubados
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paulinho Gogó em Top Love - Só e Bem Acompanhado" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/nkaKeosG8cjWwU800jD6DQUf37X.jpg" group-title="Filmes | Nacionais",Paulinho Gogó em Top Love - Só e Bem Acompanhado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SDL - A Batalha Musical" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iiYroOiA7PCwjmxRnMst6jfxXFY.jpg" group-title="Filmes | Nacionais",SDL - A Batalha Musical
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Últimos Dias de Copacabana Jack" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/acVJ0bUTNR9bpdziUwcrq1G1tmR.jpg" group-title="Filmes | Nacionais",Os Últimos Dias de Copacabana Jack
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Helldose" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/21IxtKTgAjUvGUTlfZo4iuopzxj.jpg" group-title="Filmes | Nacionais",Helldose
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Des-Igualdade - O Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7gXomzcKqzz0NRv6vtlxVa0bMs6.jpg" group-title="Filmes | Nacionais",Des-Igualdade - O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bia (2.0)" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/irqAXv6ydtkvAu1An6frFymECaf.jpg" group-title="Filmes | Nacionais",Bia (2.0)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Maria" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/gnlIchMogl6Y7eLbG1twmvxErc9.jpg" group-title="Filmes | Nacionais",Eu Sou Maria
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="São Ateu" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/rD4kjcAohpKi0i12R9J1IG4ejM8.jpg" group-title="Filmes | Nacionais",São Ateu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro dos Prazeres" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ahQ7b9yJzSpxlPGLYhwZuYctvb8.jpg" group-title="Filmes | Nacionais",O Livro dos Prazeres
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Chaves e uma Mensagem" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/xB4M4P0Ot7cjrt9VMv4GRLw6eGo.jpg" group-title="Filmes | Nacionais",Sete Chaves e uma Mensagem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gato Galáctico e O Feitiço do Tempo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/o3ou2YJVIfPGKueZWnpV1C8AkHK.jpg" group-title="Filmes | Nacionais",Gato Galáctico e O Feitiço do Tempo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Só no Sertão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/stJWfhJSrrOJGnpStKLbKtuqu7k.jpg" group-title="Filmes | Nacionais",Só no Sertão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bala Sem Nome" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/m87NGIBMVdqqYDdFdklPwK6VvUr.jpg" group-title="Filmes | Nacionais",Bala Sem Nome
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre da Fumaça" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/vhh6XzbfO5pYTlkXvSqucmnlFIA.jpg" group-title="Filmes | Nacionais",O Mestre da Fumaça
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Propriedade" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/14sWZsWndUD33dq82HFRtBSa1rc.jpg" group-title="Filmes | Nacionais",Propriedade
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica Jovem: Reflexos do Medo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zG1YYywzTRf791p146Ae5REh9h6.jpg" group-title="Filmes | Nacionais",Turma da Mônica Jovem: Reflexos do Medo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Derrapada" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/dv29lgOa4C0Sowynoj4IyFj28LJ.jpg" group-title="Filmes | Nacionais",Derrapada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querência" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/o6F1JHyxzsaZbCB7AXAhMPa4v3e.jpg" group-title="Filmes | Nacionais",Querência
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ó Pai, Ó 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9yKqnhLo5RWQJPxJQxQsX2OGBZd.jpg" group-title="Filmes | Nacionais",Ó Pai, Ó 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Irmã e Eu" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/mQ3aQAR2Wt4l4tsPeNftmgsrsSg.jpg" group-title="Filmes | Nacionais",Minha Irmã e Eu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Menarca" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/vy49vqgZPQXGJIuEXn2L5VEjHg7.jpg" group-title="Filmes | Nacionais",Menarca
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fazendo Meu Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/x57IrM7mxk8iAmvDYWUqhZCkEFm.jpg" group-title="Filmes | Nacionais",Fazendo Meu Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamonas Assassinas: O Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg" group-title="Filmes | Nacionais",Mamonas Assassinas: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sequestro do Voo 375" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pJpddZcKmThYS53EcjaKV8pwBJG.jpg" group-title="Filmes | Nacionais",O Sequestro do Voo 375
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apoteose do Samba: 40 Anos de Sapucaí" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wAUJcj3P9OUHlt1rC5sKP9Qe84.jpg" group-title="Filmes | Nacionais",Apoteose do Samba: 40 Anos de Sapucaí
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tá Escrito" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/jd6eKnyS7OqLFUWRuSO2jJJROcd.jpg" group-title="Filmes | Nacionais",Tá Escrito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Tem Volta" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/hIez3JLEtQtHJPApR5ghSM1hBZ4.jpg" group-title="Filmes | Nacionais",Não Tem Volta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pedágio" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/xv5ghXDtkWsW8DyAmDx6hcuY8dP.jpg" group-title="Filmes | Nacionais",Pedágio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Poliana: O Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pthTT2B1wSU6u3b4bTJjpl8qyu9.jpg" group-title="Filmes | Nacionais",As Aventuras de Poliana: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tia Virgínia" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ibAyBZyxph1zcWZX7Eo4F8tCKmJ.jpg" group-title="Filmes | Nacionais",Tia Virgínia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Par Pra Chamar de Meu" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/49RBdyWxbsR8ko0QHbpj38LL31i.jpg" group-title="Filmes | Nacionais",Um Par Pra Chamar de Meu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Cunhado é Um Vampiro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/w1hyHgP4fyrW9tEqlX472bMgLO9.jpg" group-title="Filmes | Nacionais",Meu Cunhado é Um Vampiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mussum: O Filmis" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/olETegpIsLwrApT1ldOKIwFE8lY.jpg" group-title="Filmes | Nacionais",Mussum: O Filmis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TPM! Meu amor" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/90JTN1pQ0GrQBGCZSC39xGkeX36.jpg" group-title="Filmes | Nacionais",TPM! Meu amor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fluxo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/mDBN58VZHct93SyqWGj4fpOgLlu.jpg" group-title="Filmes | Nacionais",Fluxo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rapto do Betão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/sBJchR1AyiiG664GXQSvqOhWkIG.jpg" group-title="Filmes | Nacionais",O Rapto do Betão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Gal" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zWKWDxF2oCYvl7PoShG253oIp27.jpg" group-title="Filmes | Nacionais",Meu Nome é Gal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Sonho" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/oB4KWKaMwYL9B606oP2R2tukzCB.jpg" group-title="Filmes | Nacionais",Nosso Sonho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tire 5 Cartas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/seWAFVnbZZZQQIzLpOvMf07sT3o.jpg" group-title="Filmes | Nacionais",Tire 5 Cartas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Uma Aventura no Zoológico" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/c13uqs7p5cNiuLBKKHsYYNcaZ1q.jpg" group-title="Filmes | Nacionais",Luccas Neto em: Uma Aventura no Zoológico
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christabel" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lybPq0JZkjAh7evIYJBEHePnOaa.jpg" group-title="Filmes | Nacionais",Christabel
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bixa Travesty" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/kg1N7e38hmzXOKcj9xCnUFEHQY3.jpg" group-title="Filmes | Nacionais",Bixa Travesty
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Porteiro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8UIXPu4LRu6Zho8ruWhIjpeY439.jpg" group-title="Filmes | Nacionais",O Porteiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chic Show" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8MugCY7WP3eXTIWM574ncrr8WKr.jpg" group-title="Filmes | Nacionais",Chic Show
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angela" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/rrtvniUR4OSpGqypScj3ebQ2kI1.jpg" group-title="Filmes | Nacionais",Angela
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contravenção" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/fdS29ZUQ8r5Uq3ZIUYzEh8YDK0B.jpg" group-title="Filmes | Nacionais",Contravenção
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Aventureiros – A Origem" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/qKyfHivRX3wRbY4zgN1oFdjqBqH.jpg" group-title="Filmes | Nacionais",Os Aventureiros – A Origem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boa Noite" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/35jq47Wui2Y6mQsGeuQ1nuvVD99.jpg" group-title="Filmes | Nacionais",Boa Noite
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bem Amado" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iV393cSCUOdV2AweBHsJZ0qWWhz.jpg" group-title="Filmes | Nacionais",O Bem Amado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jorginho Guinle So Se Vive uma Vez" tvg-logo="https://i.bj-share.info/96cbaaf63c52800675abe92d035d98b3.jpg" group-title="Filmes | Nacionais",Jorginho Guinle So Se Vive uma Vez
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impuros: O Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg" group-title="Filmes | Nacionais",Impuros: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Rasta" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/b6AgZq0bSYV1UPqj2Fd3rmKPJ4d.jpg" group-title="Filmes | Nacionais",Amazon Rasta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite das Vampiras" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8NdUCwZeAldLbq6B0gUW8CAOJtY.jpg" group-title="Filmes | Nacionais",A Noite das Vampiras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papai é Pop" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9lXyjwOLz5IgYJbK4uuzUuLAVrg.jpg" group-title="Filmes | Nacionais",Papai é Pop
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horácio" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ruifTIR0Jp7pHIlUR4Pnv5Xgm7Q.jpg" group-title="Filmes | Nacionais",Horácio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Ritmo da Fé" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/sVWU32CuOOEuHxwEjI2NsI4WDc4.jpg" group-title="Filmes | Nacionais",No Ritmo da Fé
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno da Luz: O Início" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/cF9kFawlQU8Ob79DCJfP7GqPTLT.jpg" group-title="Filmes | Nacionais",O Retorno da Luz: O Início
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Cupido" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/d3VfXfQWSVuw4FbOldN9O6TX9F4.jpg" group-title="Filmes | Nacionais",Missão Cupido
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Cordial" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/gh00MGBNEUAE03ErQBMdTpUm44u.jpg" group-title="Filmes | Nacionais",O Homem Cordial
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Albertina" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/xm7Fow4H87rnRzyXz0hjny7q8bj.jpg" group-title="Filmes | Nacionais",Albertina
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mato Seco em Chamas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/rB4aOI6OaBam2XvzIoVmS2yXwxm.jpg" group-title="Filmes | Nacionais",Mato Seco em Chamas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sísmicas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6lEvzDbxF4zdu3Cm4x6SXX3nuEl.jpg" group-title="Filmes | Nacionais",Sísmicas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carvão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/m7qAoDKCtOQyOgp3FlPiC95Ddb5.jpg" group-title="Filmes | Nacionais",Carvão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barraco de Família" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/f5IqNMb4IVdijcaHI3oXyM6sEhE.jpg" group-title="Filmes | Nacionais",Barraco de Família
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rio do Desejo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/eg3ECsQNNrch7NFRpOYZMKsmWk9.jpg" group-title="Filmes | Nacionais",O Rio do Desejo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ano Inesquecível - Primavera" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/82KpRnPInxlEQsiMdLyhHHxJjgn.jpg" group-title="Filmes | Nacionais",Um Ano Inesquecível - Primavera
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Urubus" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/c590OZItnlYKm9tBS6XzaTWtN2E.jpg" group-title="Filmes | Nacionais",Urubus
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Cova" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iatoNBukghZJUIBCOQpXvHd0dHN.jpg" group-title="Filmes | Nacionais",A Última Cova
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ano Inesquecível - Inverno" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6I60SxaNwnc8I2ZdL5dmfmnkec0.jpg" group-title="Filmes | Nacionais",Um Ano Inesquecível - Inverno
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ano Inesquecível: Outuno" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bIco5SOsxCHiLVOIVxKwV3axT1K.jpg" group-title="Filmes | Nacionais",Um Ano Inesquecível: Outuno
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Meu Aniversário" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/jYvm8UD5ETdiUJ4rFGgfFdedgcS.jpg" group-title="Filmes | Nacionais",Luccas Neto em: O Meu Aniversário
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ano Inesquecível: Verão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zEjG2LXebr8rpgZQQA6J2YOl77i.jpg" group-title="Filmes | Nacionais",Um Ano Inesquecível: Verão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois Daquela Festa" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lTeNZ9HfnS3b29wPdpTjPptRKfa.jpg" group-title="Filmes | Nacionais",Depois Daquela Festa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Acaba Em Festa" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wnlOjxVeUXHwcHOEN0s1vSgJHCh.jpg" group-title="Filmes | Nacionais",Tudo Acaba Em Festa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noites Alienígenas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ersvxPWpGg92UNjaeqoZ70znevK.jpg" group-title="Filmes | Nacionais",Noites Alienígenas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/gsFwoJYkWJlGdeOIS3dfwTAtkUi.jpg" group-title="Filmes | Nacionais",Maria
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fendas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/k7R6w9kQCa8xeHiOD7mt1zJtpJ2.jpg" group-title="Filmes | Nacionais",Fendas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguaretê-Avá: Pantanal em Chamas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/y6aYl2b29GSMuamSjinTRNd8gP3.jpg" group-title="Filmes | Nacionais",Jaguaretê-Avá: Pantanal em Chamas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sideral" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/fNHbxhe1evqIcjOzWbX0R55pHaW.jpg" group-title="Filmes | Nacionais",Sideral
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D.P.A. e a Biblioteca Banida" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/2jQ7Wtm6MNNn5J8rleBJrwSkedu.jpg" group-title="Filmes | Nacionais",D.P.A. e a Biblioteca Banida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raquel 1:1" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/numZOhSuBd3qzJyjQ49wlBNOqce.jpg" group-title="Filmes | Nacionais",Raquel 1:1
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fogaréu" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/dmwUhp8NX8frTPlFhDDnBuFjpR5.jpg" group-title="Filmes | Nacionais",Fogaréu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aos Nossos Filhos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/yJvvPr8pc35tYPZ8VZUiy98OVLv.jpg" group-title="Filmes | Nacionais",Aos Nossos Filhos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem Onça" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bEdbdPiipYf3SgmC0kjECGn7IoR.jpg" group-title="Filmes | Nacionais",Homem Onça
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regra 34" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bhfHqvpIzxQoXhmpUhn03g8EzFS.jpg" group-title="Filmes | Nacionais",Regra 34
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Faixa Preta" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tdXSgI3jxRbZOoBWxvpnMjkRfBV.jpg" group-title="Filmes | Nacionais",O Faixa Preta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Clube dos Anjos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/v7EJkTSovc6W8duF8GMJjFAZwdB.jpg" group-title="Filmes | Nacionais",O Clube dos Anjos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pelé Eterno" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/qxg4t41bE9PmjLUXkkLb7irD7Wu.jpg" group-title="Filmes | Nacionais",Pelé Eterno
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Posse do Presidente Lula" tvg-logo="https://i.bj-share.info/47f690dd9e17fb4a8087422730674a19.jpg" group-title="Filmes | Nacionais",Posse do Presidente Lula
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pelé - A Origem" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ubAYMfHMpPHu1AdpxuOwkE4IsYo.jpg" group-title="Filmes | Nacionais",Pelé - A Origem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda" tvg-logo="http://gstaticontent.com/images/9defdbbba820a83f72f4e6a871186ccb.jpg" group-title="Filmes | Nacionais",A Queda
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ó Paí, Ó" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmBBt6NvPs4sbQWxqd0UrGVcn8.jpg" group-title="Filmes | Nacionais",Ó Paí, Ó
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo" tvg-logo="http://gstaticontent.com/images/de1208b1902e86533cd5f631016ad839.jpg" group-title="Filmes | Nacionais",D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Plano dos Vilões" tvg-logo="http://gstaticontent.com/images/6758308cc75f1b2b7d73adcfa4e58ae7.jpg" group-title="Filmes | Nacionais",Luccas Neto em: O Plano dos Vilões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Copiava" tvg-logo="http://gstaticontent.com/images/79dc66f1bb786cb047df23c0f445439f.jpg" group-title="Filmes | Nacionais",O Homem Que Copiava
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: É de Mim Mesmo" tvg-logo="http://gstaticontent.com/images/a1478a2785602805c9306843298868d6.jpg" group-title="Filmes | Nacionais",Whindersson Nunes: É de Mim Mesmo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Senna" tvg-logo="http://gstaticontent.com/images/d5aafdff7195c15ac441359136d07a83.jpg" group-title="Filmes | Nacionais",Senna
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebento" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/WCfKI0rZc3ujUOcEkUBsOHMNvh.jpg" group-title="Filmes | Nacionais",Rebento
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sogra Perfeita" tvg-logo="http://gstaticontent.com/images/3323de1a07a5621d435de651ec54326f.jpg" group-title="Filmes | Nacionais",A Sogra Perfeita
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cafundó" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/qzkdKx59A9dbKXv6xVbw7YohPVc.jpg" group-title="Filmes | Nacionais",Cafundó
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lulli" tvg-logo="http://gstaticontent.com/images/098e3da85dae466a100da5fbba2eec63.jpg" group-title="Filmes | Nacionais",Lulli
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marighella" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/oqHLyxKGhlGe1S2S9X8hragmNQl.jpg" group-title="Filmes | Nacionais",Marighella
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Eu Fosse Você" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/hAgYPRPXmTxEbCv96YXZTotl4ae.jpg" group-title="Filmes | Nacionais",Se Eu Fosse Você
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Eu Fosse Você 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6s6rXeMG4OIoiAK1lHLgst3mHqW.jpg" group-title="Filmes | Nacionais",Se Eu Fosse Você 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Receberia as Piores Notícias dos Seus Lindos Lábios" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8XpcQ5DmJ2YrhV0I9HfGcOlEahT.jpg" group-title="Filmes | Nacionais",Eu Receberia as Piores Notícias dos Seus Lindos Lábios
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem é você, Charlie Brown?" tvg-logo="http://gstaticontent.com/images/a990db9ae810f5b15ed8adf58854e9b0.jpg" group-title="Filmes | Nacionais",Quem é você, Charlie Brown?
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gilberto Gil: Um Deus em seu Jardim" tvg-logo="http://gstaticontent.com/images/b2b302c2284db838a0d974df146cfa97.jpg" group-title="Filmes | Nacionais",Gilberto Gil: Um Deus em seu Jardim
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blitz" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iYrXynB7NC84FOAuGGTK3sY9Fv2.jpg" group-title="Filmes | Nacionais",Blitz
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boca do Lixo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uylT8u33yxN16YSF3plwpoBn3ZI.jpg" group-title="Filmes | Nacionais",Boca do Lixo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Que Deus Criou" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ivG1HG9VeXo95jtkr1PnNUzX6tK.jpg" group-title="Filmes | Nacionais",Tudo Que Deus Criou
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boa Sorte" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9C6ps8FHoaY2MrzPm0Qwp37SFIR.jpg" group-title="Filmes | Nacionais",Boa Sorte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Possíveis" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tBs97JX3B2yQVcDEgsEuEFXFCpB.jpg" group-title="Filmes | Nacionais",Amores Possíveis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Brasileiro" tvg-logo="http://gstaticontent.com/images/88edac2a2d89499564c3ae941c609d61.jpg" group-title="Filmes | Nacionais",Eu Sou Brasileiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais: O Filme" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/fY6iAt1FydekczPvJ8AkbaKEZLv.jpg" group-title="Filmes | Nacionais",Os Normais: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/5nLdwZTklH9aFYpPw819MPZ5M49.jpg" group-title="Filmes | Nacionais",Os Normais 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisbela e o Prisioneiro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/cZoykE7XMqPBdZBfM6ncSVMT8Wh.jpg" group-title="Filmes | Nacionais",Lisbela e o Prisioneiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Achados e Perdidos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bU5agHjnBhy6YpRASeIsbauxY5H.jpg" group-title="Filmes | Nacionais",Achados e Perdidos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piedade" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/rUVrAAXXjGhYflRUtbyqgREABKD.jpg" group-title="Filmes | Nacionais",Piedade
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Mais Dois" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/OqYcA2dOx0NF8QvW58pXejTGtR.jpg" group-title="Filmes | Nacionais",Dois Mais Dois
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que Horas Ela Volta?" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bxyeCyzS8gARxC7fhCX2dlG3Qgm.jpg" group-title="Filmes | Nacionais",Que Horas Ela Volta?
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Casal Inseparável" tvg-logo="http://gstaticontent.com/images/c7d71f7a07bb28df5212f00c31d24381.jpg" group-title="Filmes | Nacionais",Um Casal Inseparável
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Permanência" tvg-logo="http://gstaticontent.com/images/00e67e2551975bd747e035c414eb9a8a.jpg" group-title="Filmes | Nacionais",Permanência
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola: O Filme" tvg-logo="http://gstaticontent.com/images/021238e180887c0d9f02c9cd7d3e6f6e.jpg" group-title="Filmes | Nacionais",Vai Que Cola: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Filme de Cinema" tvg-logo="http://gstaticontent.com/images/f3e01ee92991d3b644a160069de249dc.jpg" group-title="Filmes | Nacionais",Um Filme de Cinema
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Novo" tvg-logo="http://gstaticontent.com/images/780d01e78e36ed4c6e9b3a161f5e10ea.jpg" group-title="Filmes | Nacionais",Cinema Novo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brasília 18%" tvg-logo="http://gstaticontent.com/images/faf9a9384a6e84de76d6f1f050aedf88.jpg" group-title="Filmes | Nacionais",Brasília 18%
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabra-Cega" tvg-logo="http://gstaticontent.com/images/ba12e8779e78d126f8cb7e29f9172305.jpg" group-title="Filmes | Nacionais",Cabra-Cega
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentiroso" tvg-logo="http://gstaticontent.com/images/a0a86118c8b8f6c3f1eda780c0fb01a2.jpg" group-title="Filmes | Nacionais",O Mentiroso
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Mapa do Tesouro 2" tvg-logo="http://gstaticontent.com/images/14c126ea10414b6086ede860ea8f68b6.jpg" group-title="Filmes | Nacionais",Luccas Neto em: O Mapa do Tesouro 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Getúlio" tvg-logo="http://gstaticontent.com/images/f89915db23c93880bd346c6004b97e68.jpg" group-title="Filmes | Nacionais",Getúlio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigas de Sorte" tvg-logo="http://gstaticontent.com/images/5987945449d0b7b93bacfc1f81750bd7.jpg" group-title="Filmes | Nacionais",Amigas de Sorte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Invisível" tvg-logo="http://gstaticontent.com/images/a51d984337518c41f1db12c53abeffcf.jpg" group-title="Filmes | Nacionais",A Mulher Invisível
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Didi, o Cupido Trapalhão" tvg-logo="http://gstaticontent.com/images/025482a4a8386b010337b837a20d03f3.jpg" group-title="Filmes | Nacionais",Didi, o Cupido Trapalhão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nó do Diabo" tvg-logo="http://gstaticontent.com/images/1154d47f7cfeaff0f63cce38e7897c9b.jpg" group-title="Filmes | Nacionais",O Nó do Diabo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salomão" tvg-logo="http://gstaticontent.com/images/705bc2684997ac4a484d789245949d38.jpg" group-title="Filmes | Nacionais",Salomão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor Dá Trabalho" tvg-logo="http://gstaticontent.com/images/be3708bfdadda8544f55781cf4395efc.jpg" group-title="Filmes | Nacionais",O Amor Dá Trabalho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="400 Contra 1: Uma História do Crime Organizado" tvg-logo="http://gstaticontent.com/images/401e0327685106620d66ba04dbb84b58.jpg" group-title="Filmes | Nacionais",400 Contra 1: Uma História do Crime Organizado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heleno" tvg-logo="http://gstaticontent.com/images/f008a573bdb9612305bab26fac831519.jpg" group-title="Filmes | Nacionais",Heleno
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xingu" tvg-logo="http://gstaticontent.com/images/9b9b8e0670eeb1b43aae7455614f3157.jpg" group-title="Filmes | Nacionais",Xingu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tô Ryca!" tvg-logo="http://gstaticontent.com/images/f4edd55ca3f49e56bbd3b09c3c304098.jpg" group-title="Filmes | Nacionais",Tô Ryca!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino no Espelho" tvg-logo="http://gstaticontent.com/images/099e1f83a31ad394ef638457b61ee132.jpg" group-title="Filmes | Nacionais",O Menino no Espelho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Através da Sombra" tvg-logo="http://gstaticontent.com/images/98f9bbe9fd44a94c292b34b2c6a5c68a.jpg" group-title="Filmes | Nacionais",Através da Sombra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dona Flor e Seus Dois Maridos" tvg-logo="http://gstaticontent.com/images/cadc82cd11984023c9d6d9b659da3868.jpg" group-title="Filmes | Nacionais",Dona Flor e Seus Dois Maridos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rio, Eu Te Amo" tvg-logo="http://gstaticontent.com/images/4a35336cf50f983a85827d5b85ac657c.jpg" group-title="Filmes | Nacionais",Rio, Eu Te Amo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corisco & Dadá" tvg-logo="http://gstaticontent.com/images/d87b4344135cae9690079d24039e44a4.jpg" group-title="Filmes | Nacionais",Corisco & Dadá
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tainá 3: A Origem" tvg-logo="http://gstaticontent.com/images/5d6f5bdb8a82d135a6cac2eba75c1fd9.jpg" group-title="Filmes | Nacionais",Tainá 3: A Origem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Duas Babás Muito Esquisitas" tvg-logo="http://gstaticontent.com/images/cc6524bb827e356bf248736d2959f5a2.jpg" group-title="Filmes | Nacionais",Luccas Neto em: Duas Babás Muito Esquisitas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Saltimbancos Trapalhões: Rumo a Hollywood" tvg-logo="http://gstaticontent.com/images/yacasOzhUrO08YLwJxjk6oh0hIO_big.jpg" group-title="Filmes | Nacionais",Os Saltimbancos Trapalhões: Rumo a Hollywood
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Saltimbancos Trapalhões" tvg-logo="http://gstaticontent.com/images/fWYBeNsJUPtxtnXHT1ViLI3LeKe_big.jpg" group-title="Filmes | Nacionais",Os Saltimbancos Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar o Pior Aluno da Escola" tvg-logo="http://gstaticontent.com/images/olRSTQXTNRPwIUIjbeVs5LGrYGC_big.jpg" group-title="Filmes | Nacionais",Como Se Tornar o Pior Aluno da Escola
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite 2: O Inimigo Agora é Outro" tvg-logo="http://gstaticontent.com/images/8G7F938AHqBBLc5yJXPUJhSJzN5_big.jpg" group-title="Filmes | Nacionais",Tropa de Elite 2: O Inimigo Agora é Outro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite" tvg-logo="http://gstaticontent.com/images/eYTZoNEWbHPD2ujjdhdlpvbSYdr_big.jpg" group-title="Filmes | Nacionais",Tropa de Elite
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vazio Coração" tvg-logo="http://gstaticontent.com/images/1vmaZ0ETn5BMYhq6tKKXB2ExsWF_big.jpg" group-title="Filmes | Nacionais",Vazio Coração
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antônia" tvg-logo="http://gstaticontent.com/images/8PEq58TpTzGV5b0QtQw3AXDSLTY_big.jpg" group-title="Filmes | Nacionais",Antônia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu País" tvg-logo="http://gstaticontent.com/images/2IaoLQ6kX8ulWSBozI6B9sgwt0y_big.jpg" group-title="Filmes | Nacionais",Meu País
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boi Neon" tvg-logo="http://gstaticontent.com/images/5REKpLfRp9eM6s1G75kPhJkBJ0W_big.jpg" group-title="Filmes | Nacionais",Boi Neon
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marighella (2019)" tvg-logo="http://gstaticontent.com/images/oqHLyxKGhlGe1S2S9X8hragmNQl_big.jpg" group-title="Filmes | Nacionais",Marighella (2019)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morto Não Fala" tvg-logo="http://gstaticontent.com/images/lCB6vUlrNzLHZBYjLlF6Ay3hIDT_big.jpg" group-title="Filmes | Nacionais",Morto Não Fala
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uns Bracos" tvg-logo="http://gstaticontent.com/images/4ruHJpeh3aliNWrOyHpiXxkFqJc_big.jpg" group-title="Filmes | Nacionais",Uns Bracos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trabalhar Cansa" tvg-logo="http://gstaticontent.com/images/2qRBohwJok395E6xr7L6VhMEhq_big.jpg" group-title="Filmes | Nacionais",Trabalhar Cansa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Madeireiro" tvg-logo="http://gstaticontent.com/images/9M8qoqsTPrU5jkT0efuHJYCMJ8P_big.jpg" group-title="Filmes | Nacionais",O Madeireiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Estigma" tvg-logo="http://gstaticontent.com/images/uHaTS3VTWfqL7dmnA8M1CkpILKz_big.jpg" group-title="Filmes | Nacionais",O Estigma
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Maos de Meu Filho" tvg-logo="http://gstaticontent.com/images/3SrtBdrxBeXS1EdBMubvYJ6Flyw_big.jpg" group-title="Filmes | Nacionais",As Maos de Meu Filho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores de Chumbo" tvg-logo="http://gstaticontent.com/images/fZPUSJsCEuhDhBqzwF5sd9vuv3w_big.jpg" group-title="Filmes | Nacionais",Amores de Chumbo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ó Pai, Ó" tvg-logo="http://gstaticontent.com/images/eS5G6BCbUBU77Ueo07HllIBBc53_big.jpg" group-title="Filmes | Nacionais",Ó Pai, Ó
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Esperanca E A Ultima Que Morre" tvg-logo="http://gstaticontent.com/images/xuoipRTX1LhKAUtAhllB7yZgjOv_big.jpg" group-title="Filmes | Nacionais",A Esperanca E A Ultima Que Morre
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quincas Berro Dagua" tvg-logo="http://gstaticontent.com/images/7qUu6rctIPIseiue81DzjTzBHeV_big.jpg" group-title="Filmes | Nacionais",Quincas Berro Dagua
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memórias Póstumas" tvg-logo="http://gstaticontent.com/images/2YaTajYhJaQ5LbxfKA4KGQ46hUv_big.jpg" group-title="Filmes | Nacionais",Memórias Póstumas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobre Rodas" tvg-logo="http://gstaticontent.com/images/2KoY6U66oe64wTc6sFCrbPmX437_big.jpg" group-title="Filmes | Nacionais",Sobre Rodas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cheiro Do Ralo" tvg-logo="http://gstaticontent.com/images/65FXXA2XhLDzWVqCOYVTzd0O23n_big.jpg" group-title="Filmes | Nacionais",O Cheiro Do Ralo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cazuza O Tempo Nao Para" tvg-logo="http://gstaticontent.com/images/8Gornwn6Udc4AJCqYKYrZ2Mx8tb_big.jpg" group-title="Filmes | Nacionais",Cazuza O Tempo Nao Para
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carandiru" tvg-logo="http://gstaticontent.com/images/bEzEA94NiG8xcx14229TjKFhlEk_big.jpg" group-title="Filmes | Nacionais",Carandiru
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisbela e o Prisioneiro" tvg-logo="http://gstaticontent.com/images/cZoykE7XMqPBdZBfM6ncSVMT8Wh_big.jpg" group-title="Filmes | Nacionais",Lisbela e o Prisioneiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino Da Porteira" tvg-logo="http://gstaticontent.com/images/dd209b998eae50bba23a112e180becf1.jpg" group-title="Filmes | Nacionais",O Menino Da Porteira
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmaos De Fe" tvg-logo="http://gstaticontent.com/images/8MiFxtBNsI4yrqW4Zqsg4uxQZ3C_big.jpg" group-title="Filmes | Nacionais",Irmaos De Fe
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tainá: Uma Aventura na Amazônia" tvg-logo="http://gstaticontent.com/images/1eWXD2818d5VVHhayLIOvyTI9wy_big.jpg" group-title="Filmes | Nacionais",Tainá: Uma Aventura na Amazônia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tainá 2 - A Aventura Continua" tvg-logo="http://gstaticontent.com/images/aIBdGH3AV2Hni30KWwuq76XN1ty_big.jpg" group-title="Filmes | Nacionais",Tainá 2 - A Aventura Continua
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus E Brasileiro" tvg-logo="http://gstaticontent.com/images/xBZ3zMmMEWyvOw1Dh97FRF0Pk1p_big.jpg" group-title="Filmes | Nacionais",Deus E Brasileiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabeça de Gumercindo Saraiva" tvg-logo="http://gstaticontent.com/images/2nrfMcUHswJN6kRdXBulQI8FDZx_big.jpg" group-title="Filmes | Nacionais",A Cabeça de Gumercindo Saraiva
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade dos Homens" tvg-logo="http://gstaticontent.com/images/6qVGJe9JcFtLQ6FUjrtckZCc9WS_big.jpg" group-title="Filmes | Nacionais",Cidade dos Homens
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Doutrinador" tvg-logo="http://gstaticontent.com/images/1CTLPePcpr1knfbPhgJkHgnX3H_big.jpg" group-title="Filmes | Nacionais",O Doutrinador
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Milagre dos Pássaros" tvg-logo="http://gstaticontent.com/images/EHWl65aDiESNqkgFxfVuA1qsEd_big.jpg" group-title="Filmes | Nacionais",O Milagre dos Pássaros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macabro" tvg-logo="http://gstaticontent.com/images/rYIjWs1ZlZwfOSRev4SVqC6DXMz_big.jpg" group-title="Filmes | Nacionais",Macabro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tapete Vermelho" tvg-logo="http://gstaticontent.com/images/zh8PPoN82hV73GOfwZ6LD14Q1zp_big.jpg" group-title="Filmes | Nacionais",Tapete Vermelho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Qualquer Gato Vira Lata 2" tvg-logo="http://gstaticontent.com/images/iMiYilvYVSlwLVpXCtfr6eeP36A_big.jpg" group-title="Filmes | Nacionais",Qualquer Gato Vira Lata 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Qualquer Gato Vira-Lata" tvg-logo="http://gstaticontent.com/images/pza45sya47vgwKWbaQy6cpGBCQR_big.jpg" group-title="Filmes | Nacionais",Qualquer Gato Vira-Lata
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Desafiou o Diabo" tvg-logo="http://gstaticontent.com/images/eXIlXNqqSTusKiJqPbdn4LHqFJ0_big.jpg" group-title="Filmes | Nacionais",O Homem Que Desafiou o Diabo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bróder" tvg-logo="http://gstaticontent.com/images/299d1e6bde913120a50d0d3fac51daa6.jpg" group-title="Filmes | Nacionais",Bróder
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Futuro" tvg-logo="http://gstaticontent.com/images/h6TnKtrElmZIqo556PvRPkeaTsm_big.jpg" group-title="Filmes | Nacionais",O Homem do Futuro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simbad, O Marujo Trapalhão (1976)" tvg-logo="http://gstaticontent.com/images/rxrYij1gxwIakNrrVP5LNPrEMV8_big.jpg" group-title="Filmes | Nacionais",Simbad, O Marujo Trapalhão (1976)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simão, o Fantasma Trapalhão (1998)" tvg-logo="http://gstaticontent.com/images/hp6PFaJr7PXwl3Ci2Fgpq2OhLyt_big.jpg" group-title="Filmes | Nacionais",Simão, o Fantasma Trapalhão (1998)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood, O Trapalhão da Floresta" tvg-logo="http://gstaticontent.com/images/kPH0ZO12dNVn05mhW8eW33qOK0a_big.jpg" group-title="Filmes | Nacionais",Robin Hood, O Trapalhão da Floresta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão no Planalto dos Macacos" tvg-logo="http://gstaticontent.com/images/w9OqnqJ6WsMYSqV194O3LkdYzSe_big.jpg" group-title="Filmes | Nacionais",O Trapalhão no Planalto dos Macacos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão nas Minas do Rei Salomão" tvg-logo="http://gstaticontent.com/images/dcGPEgJp95zk00XiWYUAFy7F4ro_big.jpg" group-title="Filmes | Nacionais",O Trapalhão nas Minas do Rei Salomão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão na Ilha do Tesouro" tvg-logo="http://gstaticontent.com/images/azrBKuXCdKAIfg7P60SS3RhnEXB_big.jpg" group-title="Filmes | Nacionais",O Trapalhão na Ilha do Tesouro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão na Arca de Noé" tvg-logo="http://gstaticontent.com/images/wA6v0Rw9pmUI1DiWWB5ytxqYW4E_big.jpg" group-title="Filmes | Nacionais",O Trapalhão na Arca de Noé
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão e a Luz Azul" tvg-logo="http://gstaticontent.com/images/r8h5xaVCsEBCAUEUdUPtYzMHv6K_big.jpg" group-title="Filmes | Nacionais",O Trapalhão e a Luz Azul
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Vagabundos Trapalhões" tvg-logo="http://gstaticontent.com/images/sSIaLy7vbvmIRUx6J7IVXTZB9fo_big.jpg" group-title="Filmes | Nacionais",Os Vagabundos Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros Trapalhões" tvg-logo="http://gstaticontent.com/images/nzi3t6CzLqHlJw9mUucH2Nq4bQx_big.jpg" group-title="Filmes | Nacionais",Os Três Mosqueteiros Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões no Reino da Fantasia" tvg-logo="http://gstaticontent.com/images/4vQYLnT3fOE1CfyHfRSYOsU1Xhc_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões no Reino da Fantasia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões no Rabo do Cometa" tvg-logo="http://gstaticontent.com/images/8XoZzttXVWuoYt8L6nxqP0xFAas_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões no Rabo do Cometa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões no Auto da Compadecida" tvg-logo="http://gstaticontent.com/images/7HqZlijQFlX31MmKMiEl8kALZ5k_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões no Auto da Compadecida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões na Terra dos Monstros" tvg-logo="http://gstaticontent.com/images/pinxZ81xfig6sNeVPCSfTIbGgBI_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões na Terra dos Monstros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões na Serra Pelada" tvg-logo="http://gstaticontent.com/images/wYwUK4lmYx5bhb2Mprxy3j1tJ8q_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões na Serra Pelada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões e o Rei do Futebol" tvg-logo="http://gstaticontent.com/images/uEie8BuqKLzX5WFXQ6HExwPiqwJ_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões e o Rei do Futebol
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões e o Mágico de Oróz" tvg-logo="http://gstaticontent.com/images/vuqGUnWLyLC17zYXWPwfT43145A_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões e o Mágico de Oróz
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões e a Árvore da Juventude" tvg-logo="http://gstaticontent.com/images/bhnNNuHs9qs45gy98GmdUIGKDh2_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões e a Árvore da Juventude
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Heróis Trapalhões - Uma Aventura na Selva" tvg-logo="http://gstaticontent.com/images/sghqwymNH187Vg5bOY3vX7g1KD2_big.jpg" group-title="Filmes | Nacionais",Os Heróis Trapalhões - Uma Aventura na Selva
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Fantasmas Trapalhões" tvg-logo="http://gstaticontent.com/images/iZ7QSsfkqJJNIT1GQcXVs01Rjq8_big.jpg" group-title="Filmes | Nacionais",Os Fantasmas Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei e os Trapalhões" tvg-logo="http://gstaticontent.com/images/uawG2ASZPyBHujOuljEd0BqZaF1_big.jpg" group-title="Filmes | Nacionais",O Rei e os Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Noviço Rebelde" tvg-logo="http://gstaticontent.com/images/hgaouQPWXu4Kezmb65569B9QsWS_big.jpg" group-title="Filmes | Nacionais",O Noviço Rebelde
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo Mágico dos Trapalhões" tvg-logo="http://gstaticontent.com/images/qhfbiQ5UZXUhqvnzF0TVL8JIl5U_big.jpg" group-title="Filmes | Nacionais",O Mundo Mágico dos Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Robin Hood" tvg-logo="http://gstaticontent.com/images/3VBItZiqd8FWzfNcJAAFY6no3Uc_big.jpg" group-title="Filmes | Nacionais",O Mistério de Robin Hood
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Monstro Trapalhão" tvg-logo="http://gstaticontent.com/images/xAP2ZzCdiOdrynIwPR702gMK668_big.jpg" group-title="Filmes | Nacionais",O Incrível Monstro Trapalhão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cinderelo Trapalhão" tvg-logo="http://gstaticontent.com/images/r7rTd4fzL9NgrslkYOZBGKAhja1_big.jpg" group-title="Filmes | Nacionais",O Cinderelo Trapalhão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Casamento dos Trapalhões" tvg-logo="http://gstaticontent.com/images/xKoM05UcZEFznOwrs0RjX4afS1g_big.jpg" group-title="Filmes | Nacionais",O Casamento dos Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cangaceiro Trapalhão" tvg-logo="http://gstaticontent.com/images/vTeVkngp93Cxw1t5RpWy8ErSN4f_big.jpg" group-title="Filmes | Nacionais",O Cangaceiro Trapalhão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Onda do Iê-Iê-Iê" tvg-logo="http://gstaticontent.com/images/pdg1Lk37DounkeqcRaLsKNkhV0a_big.jpg" group-title="Filmes | Nacionais",Na Onda do Iê-Iê-Iê
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois na Lona" tvg-logo="http://gstaticontent.com/images/ghUvFCnbGmFdBz2antoB4eg2jTj_big.jpg" group-title="Filmes | Nacionais",Dois na Lona
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões na Guerra dos Planetas" tvg-logo="http://gstaticontent.com/images/91JvtJlDKz7PPqpaIKuMuus1hbf_big.jpg" group-title="Filmes | Nacionais",Os Trapalhões na Guerra dos Planetas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonga, o Vagabundo" tvg-logo="http://gstaticontent.com/images/bvz6oCiQmd8VqSenDuyhKOg0tUP_big.jpg" group-title="Filmes | Nacionais",Bonga, o Vagabundo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões" tvg-logo="http://gstaticontent.com/images/bFIv5EDwRjSt80H4Mkd3bMVsx1b_big.jpg" group-title="Filmes | Nacionais",A Princesa Xuxa e os Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali Babá e os Quarenta Ladrões" tvg-logo="http://gstaticontent.com/images/AuoLAGJvUFGv6LtvWv2EgtCJWfw_big.jpg" group-title="Filmes | Nacionais",Ali Babá e os Quarenta Ladrões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa" tvg-logo="http://gstaticontent.com/images/gMKZIPVowwvPmRzbXfZqEj80QhB_big.jpg" group-title="Filmes | Nacionais",Aladim e a Lâmpada Maravilhosa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Filha dos Trapalhões" tvg-logo="http://gstaticontent.com/images/xK3k94RSkW7u1walQlTxP16G5Tj_big.jpg" group-title="Filmes | Nacionais",A Filha dos Trapalhões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adorável Trapalhão" tvg-logo="http://gstaticontent.com/images/eTgzZS59Q2l6jfYX8knYMS100qh_big.jpg" group-title="Filmes | Nacionais",Adorável Trapalhão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Crime da Cabra" tvg-logo="http://gstaticontent.com/images/dmTB39jwwttoMAIR6RiJulKoNH8_big.jpg" group-title="Filmes | Nacionais",O Crime da Cabra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Embarque Imediato" tvg-logo="http://gstaticontent.com/images/nB4pMR8AvDVGRh3gzT3UKu8vINl_big.jpg" group-title="Filmes | Nacionais",Embarque Imediato
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Copa de Elite" tvg-logo="http://gstaticontent.com/images/lnYUVBcw8xk5a3UMzNjFDcKAJc8_big.jpg" group-title="Filmes | Nacionais",Copa de Elite
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suburbia O Filme" tvg-logo="http://gstaticontent.com/images/mUcj6Gk5QmhlXQi7lrRnW9Q1D2C_big.jpg" group-title="Filmes | Nacionais",Suburbia O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hebe: A Estrela do Brasil" tvg-logo="http://gstaticontent.com/images/2yIthauKAksR0YOvIYZjCF1g7Ob_big.jpg" group-title="Filmes | Nacionais",Hebe: A Estrela do Brasil
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Fim do Natal" tvg-logo="http://gstaticontent.com/images/qvbG8HGZADCUBhZyy8f029KviKW_big.jpg" group-title="Filmes | Nacionais",Luccas Neto em: O Fim do Natal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condado Macabro" tvg-logo="http://gstaticontent.com/images/qeBVxzEDIC0LRrkaKVDinR6RUn6_big.jpg" group-title="Filmes | Nacionais",Condado Macabro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pendular" tvg-logo="http://gstaticontent.com/images/6yU9lmNDBihsPpxxdHAi8PbiqmB_big.jpg" group-title="Filmes | Nacionais",Pendular
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carrossel 2: O Sumiço de Maria Joaquina" tvg-logo="http://gstaticontent.com/images/kQveggVHP2HRf4edTY4aNkDTPZA_big.jpg" group-title="Filmes | Nacionais",Carrossel 2: O Sumiço de Maria Joaquina
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Clichê do Amor" tvg-logo="http://gstaticontent.com/images/1zJIxQ8BDq4dIRhDJCTMfTk5rj1_big.jpg" group-title="Filmes | Nacionais",Todo Clichê do Amor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Praça Paris" tvg-logo="http://gstaticontent.com/images/5xtukR0jCsBodtnLHj212sT0TOJ_big.jpg" group-title="Filmes | Nacionais",Praça Paris
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Clube dos Canibais" tvg-logo="http://gstaticontent.com/images/4yTeBlAjG7qAQqEzQIO9b1k62b_big.jpg" group-title="Filmes | Nacionais",O Clube dos Canibais
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Dia das Crianças" tvg-logo="http://gstaticontent.com/images/2X72qzoUWB92tdtZfFNn7e3ARkA_big.jpg" group-title="Filmes | Nacionais",Luccas Neto em: Dia das Crianças
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Califórnia" tvg-logo="http://gstaticontent.com/images/nTonUzjWK6mhXYYrf5xsmSGccrS_big.jpg" group-title="Filmes | Nacionais",Califórnia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica: Laços" tvg-logo="http://gstaticontent.com/images/1ksQfIiWmyu9x4FbNBW5aNclVqu_big.jpg" group-title="Filmes | Nacionais",Turma da Mônica: Laços
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Acampamento de Férias" tvg-logo="http://gstaticontent.com/images/qZPBUSqcJ2LbKYEitosojSLclkx_big.jpg" group-title="Filmes | Nacionais",Luccas Neto em: Acampamento de Férias
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto ao Banco Central" tvg-logo="http://gstaticontent.com/images/sbUymWDX82csyNaTj3AmKGKqzrG_big.jpg" group-title="Filmes | Nacionais",Assalto ao Banco Central
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Passado Me Condena" tvg-logo="http://gstaticontent.com/images/fY2mBaUEAdoQEiHT7lipJpWzRXr_big.jpg" group-title="Filmes | Nacionais",Meu Passado Me Condena
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mato Sem Cachorro" tvg-logo="http://gstaticontent.com/images/n3smHWlrTpGSZKPj5BiAu11tZ1h_big.jpg" group-title="Filmes | Nacionais",Mato Sem Cachorro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nise O Coracao Da Loucura" tvg-logo="http://gstaticontent.com/images/eDEu2l4xvmhVuLerpHzzz2i1lgm_big.jpg" group-title="Filmes | Nacionais",Nise O Coracao Da Loucura
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas As Cancoes De Amor" tvg-logo="http://gstaticontent.com/images/qihRwggb2hpH3XbNqGOysAXRPh5_big.jpg" group-title="Filmes | Nacionais",Todas As Cancoes De Amor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome Nao E Johnny" tvg-logo="http://gstaticontent.com/images/115af15a553f252fd4793c4d3b6739aa.jpg" group-title="Filmes | Nacionais",Meu Nome Nao E Johnny
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto Em Perdidos Na Noite De Natal" tvg-logo="http://gstaticontent.com/images/sCHCa1y3JpR5KynKtsR53ngFAql_big.jpg" group-title="Filmes | Nacionais",Luccas Neto Em Perdidos Na Noite De Natal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dias Vazios" tvg-logo="http://gstaticontent.com/images/rUNpAJN6ApR7ERF5FCPqJ59LUoX_big.jpg" group-title="Filmes | Nacionais",Dias Vazios
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Nossos Pais" tvg-logo="http://gstaticontent.com/images/qnB014Lkp5oq6yuSJpr6jH8U91J_big.jpg" group-title="Filmes | Nacionais",Como Nossos Pais
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chocante" tvg-logo="http://gstaticontent.com/images/dokMmYTOzQVChqUrYNnGDm9TwWk_big.jpg" group-title="Filmes | Nacionais",Chocante
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Democracia Em Vertigem" tvg-logo="http://gstaticontent.com/images/z2aPe57jyW0TPYLVBXb8T0yBFGQ_big.jpg" group-title="Filmes | Nacionais",Democracia Em Vertigem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sob Pressao" tvg-logo="http://gstaticontent.com/images/lSibFrGTDaXy96lDZnUdtEDMYaw_big.jpg" group-title="Filmes | Nacionais",Sob Pressao
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliudy 2 A Chibata Sideral" tvg-logo="http://gstaticontent.com/images/jqIsvzb2uzpJ8LmLnntR2jBntNS_big.jpg" group-title="Filmes | Nacionais",Cine Holliudy 2 A Chibata Sideral
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas Pro Ar 3" tvg-logo="http://gstaticontent.com/images/7O75EXzA8sx6gTuCGEvYcG13MYq_big.jpg" group-title="Filmes | Nacionais",De Pernas Pro Ar 3
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Albatroz" tvg-logo="http://gstaticontent.com/images/gmRKjdDfElqgq72kJhHHbiERZG2_big.jpg" group-title="Filmes | Nacionais",Albatroz
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Fama de Mau" tvg-logo="http://gstaticontent.com/images/uMx8QhEZrnHRjeDUDRAhZyUFiaY_big.jpg" group-title="Filmes | Nacionais",Minha Fama de Mau
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Uma Babá Muito Esquisita" tvg-logo="http://gstaticontent.com/images/qmVSmuiWPgHkv8uDOrLn9nGLysI_big.jpg" group-title="Filmes | Nacionais",Luccas Neto em: Uma Babá Muito Esquisita
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vazante" tvg-logo="http://gstaticontent.com/images/pK1CHVJ8A3MzRE6JrkWdIm1aQ60_big.jpg" group-title="Filmes | Nacionais",Vazante
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei Davi O Filme" tvg-logo="http://gstaticontent.com/images/pK1CHVJ8A3MzRE6JrkWdIm1aQ60_big.jpg" group-title="Filmes | Nacionais",Rei Davi O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querida Mamae" tvg-logo="http://gstaticontent.com/images/m5KGfJZqj7NlnOS5F5DfI2M03cU_big.jpg" group-title="Filmes | Nacionais",Querida Mamae
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel E A Montanha" tvg-logo="http://gstaticontent.com/images/wS4CN3Yc5tVLikxJFZHd988SH40_big.jpg" group-title="Filmes | Nacionais",Gabriel E A Montanha
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Idas E Vindas" tvg-logo="http://gstaticontent.com/images/rzzwDQVAQhVrayMuOoWkPtnaTNu_big.jpg" group-title="Filmes | Nacionais",Entre Idas E Vindas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliudy" tvg-logo="http://gstaticontent.com/images/rvTLvv9hxJEcdLfbhOWtZP7swkh_big.jpg" group-title="Filmes | Nacionais",Cine Holliudy
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Station" tvg-logo="http://gstaticontent.com/images/y1qSb5mkdlZpKQC70FWldZ53C6k_big.jpg" group-title="Filmes | Nacionais",Central Station
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo - O Filme" tvg-logo="http://gstaticontent.com/images/30L6WkIEW2ipB9OHKGkmiY9YDp0_big.jpg" group-title="Filmes | Nacionais",Sai de Baixo - O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yonlu" tvg-logo="http://gstaticontent.com/images/zC37olnhFKTwz36LVOelBNwInzv_big.jpg" group-title="Filmes | Nacionais",Yonlu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Capitalismo" tvg-logo="http://gstaticontent.com/images/zXIWQoHWyZrFzsDDqVoDg92BItT_big.jpg" group-title="Filmes | Nacionais",Um Novo Capitalismo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Por Um Popstar" tvg-logo="http://gstaticontent.com/images/8SAAmvqFqYgO5AjKQLrvy4RozDM_big.jpg" group-title="Filmes | Nacionais",Tudo Por Um Popstar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro Relampago" tvg-logo="http://gstaticontent.com/images/d5x6yP7mc5NNhJittysbb5bO0Sn_big.jpg" group-title="Filmes | Nacionais",Sequestro Relampago
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rasga Coracao" tvg-logo="http://gstaticontent.com/images/21TGdSdl4zPtggfmhNyNgPpFzfN_big.jpg" group-title="Filmes | Nacionais",Rasga Coracao
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paixao de Cristo de Nova Jerusalem" tvg-logo="http://a5.vc/U9K" group-title="Filmes | Nacionais",Paixao de Cristo de Nova Jerusalem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Circo Místico" tvg-logo="http://gstaticontent.com/images/mGb7dmGFIWSigLou8FYq8zlqF45_big.jpg" group-title="Filmes | Nacionais",O Grande Circo Místico
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nao se Aceitam Devolucoes" tvg-logo="http://gstaticontent.com/images/2I7tRFLss54Kjyq9p0gPf74lXXo_big.jpg" group-title="Filmes | Nacionais",Nao se Aceitam Devolucoes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela Pop" tvg-logo="http://gstaticontent.com/images/uL0TrrV5MHQFkwRxlho0dDKTwvm_big.jpg" group-title="Filmes | Nacionais",Cinderela Pop
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1964 - O Brasil Entre Armas e Livros" tvg-logo="http://gstaticontent.com/images/mUcLVYkvUxmNsd8ZcOvAs1c7ZLc_big.jpg" group-title="Filmes | Nacionais",1964 - O Brasil Entre Armas e Livros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Acaba Em Festa" tvg-logo="http://gstaticontent.com/images/wnlOjxVeUXHwcHOEN0s1vSgJHCh_big.jpg" group-title="Filmes | Nacionais",Tudo Acaba Em Festa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Perfeito" tvg-logo="http://gstaticontent.com/images/A7cZjJDYmHUFYmbIFJmPuOrNgMw_big.jpg" group-title="Filmes | Nacionais",O Homem Perfeito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Vida em Marte" tvg-logo="http://gstaticontent.com/images/5jFmp5RmaBAY0LoEYZb4KDp0GZc_big.jpg" group-title="Filmes | Nacionais",Minha Vida em Marte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetives do Predio Azul 2" tvg-logo="http://gstaticontent.com/images/eLJpPkLUbH2xiHn6onKQ0D0Y7fA_big.jpg" group-title="Filmes | Nacionais",Detetives do Predio Azul 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Farofeiros" tvg-logo="http://gstaticontent.com/images/tSUGsF1GSNLZAEjeePsDlHBhG0a_big.jpg" group-title="Filmes | Nacionais",Os Farofeiros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Policia Federal a Lei e Para Todos" tvg-logo="http://gstaticontent.com/images/lYOBHagDwOv66TUzRy265qSWwTP_big.jpg" group-title="Filmes | Nacionais",Policia Federal a Lei e Para Todos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loop Infinito" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/hXXKlr7GZnPG6yr1QraAMGyhsQG.jpg" group-title="Filmes | Ficcao",Loop Infinito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom: A Última Rodada" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/fTGJWXuFDcRSIVPgQLbxziGquOC.jpg" group-title="Filmes | Ficcao",Venom: A Última Rodada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Viagem" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/hf7Mqgy79fyhgKJ5JmEuyWgh6LA.jpg" group-title="Filmes | Ficcao",A Viagem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejos Ocultos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/jM3pv9GEe137fdOzMgu3j7r2e0k.jpg" group-title="Filmes | Ficcao",Desejos Ocultos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Garoto da Terra" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/muqwfWK7m73uUftKj077sEhE1Iy.jpg" group-title="Filmes | Ficcao",O Último Garoto da Terra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visão: Estendida" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/qDwlTL3IzmRvsEHV1SagXIOHtmc.jpg" group-title="Filmes | Ficcao",Visão: Estendida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempestade Ácida" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/14PKR6jDSqzn9jP6L4Dw0eUdfYz.jpg" group-title="Filmes | Ficcao",Tempestade Ácida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feios" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/nag7Z3XqW3wJv4Q0xgCQLNE8nuj.jpg" group-title="Filmes | Ficcao",Feios
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Presságio (2009)" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/At03GrpqsbeomLuLTRCyCMvSFI5.jpg" group-title="Filmes | Ficcao",Presságio (2009)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aliens: O Resgate" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/cKagHBFEzD9ebVocyXRxdnZFdMo.jpg" group-title="Filmes | Ficcao",Aliens: O Resgate
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contaminados Pelo Medo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/1jmM1N8rp826pG56zfqNs2mNMMZ.jpg" group-title="Filmes | Ficcao",Contaminados Pelo Medo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iNMP8uzV2Ing6ZCw0IICgEFVNfC.jpg" group-title="Filmes | Ficcao",Avatar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attraction 2: A Invasão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zT6jdeKbBlGHpkFbWF7HZNv7rUB.jpg" group-title="Filmes | Ficcao",Attraction 2: A Invasão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Terra" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/1Kcjf0DXimg44Z1bEuzXUjJHNqi.jpg" group-title="Filmes | Ficcao",Depois da Terra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poder Sem Limites" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/d66KHiNTQU020qXJn3H5FyzXkDa.jpg" group-title="Filmes | Ficcao",Poder Sem Limites
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lado Escuro da Lua" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/jMGkoGIilJah8jCn4wVVmwdu01c.jpg" group-title="Filmes | Ficcao",O Lado Escuro da Lua
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Waterworld: O Segredo das Águas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/2mB4iPYJTwpHq3xJ2nz52wxBp5r.jpg" group-title="Filmes | Ficcao",Waterworld: O Segredo das Águas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meteoro: O Fim dos Tempos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/52HH16StATWgkxWrq9IpufOtiDs.jpg" group-title="Filmes | Ficcao",Meteoro: O Fim dos Tempos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 2: A Marcadora de Cicatrizes [Corte do Diretor]" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg" group-title="Filmes | Ficcao",Rebel Moon - Parte 2: A Marcadora de Cicatrizes [Corte do Diretor]
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 1: A Menina do Fogo [Corte do Diretor]" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg" group-title="Filmes | Ficcao",Rebel Moon - Parte 1: A Menina do Fogo [Corte do Diretor]
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Reinado" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg" group-title="Filmes | Ficcao",Planeta dos Macacos: O Reinado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonderland" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pYzZ69AfT7TTvXojGU1dCqulWLE.jpg" group-title="Filmes | Ficcao",Wonderland
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Shift - O Deslocamento" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/3c1jlJr6ik6SyAF9VZxXfpytbFj.jpg" group-title="Filmes | Ficcao",The Shift - O Deslocamento
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.S.S." tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" group-title="Filmes | Ficcao",I.S.S.
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Fim do Mundo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wPOwalo1J7F6PxM8WsiVssKqKqh.jpg" group-title="Filmes | Ficcao",Depois do Fim do Mundo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra dos Mundos - O Ataque" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pPJ5nXzh1Mr2UPRF27yj8JKAJRe.jpg" group-title="Filmes | Ficcao",A Guerra dos Mundos - O Ataque
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Apocalipse" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/yrmjuloMIfSLKnyUnxvq0jORJ3M.jpg" group-title="Filmes | Ficcao",Depois do Apocalipse
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Doador de Memórias" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/Abe0Pmz6cuW2mWVyVEkEetVFtgG.jpg" group-title="Filmes | Ficcao",O Doador de Memórias
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Feche os Olhos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/k2rDGHK5qDTemDare180EJxspe5.jpg" group-title="Filmes | Ficcao",Não Feche os Olhos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megaterremoto" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/q0aZsCojKifKEFWGnDf3jMbLUe3.jpg" group-title="Filmes | Ficcao",Megaterremoto
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amanhecer Cósmico" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/xue0BJsQMOz9ZfBZhX6rRLfWz0R.jpg" group-title="Filmes | Ficcao",Amanhecer Cósmico
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código Terror" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wgcgfdjzbvODjEftX1utwDeKKVs.jpg" group-title="Filmes | Ficcao",Código Terror
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Laranja Mecânica" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/e8jIwfP8jr81UTFbh2qJVjBhIUL.jpg" group-title="Filmes | Ficcao",Laranja Mecânica
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo do Abismo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iUmlHbK05F38QNnVDTDXa5qXFgF.jpg" group-title="Filmes | Ficcao",O Segredo do Abismo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cora: O Último Suspiro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/odyyYypYCrNjO7z57oSemdFbgaE.jpg" group-title="Filmes | Ficcao",Cora: O Último Suspiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control: O Poder da Mente" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/l9oQNjCMXOQcniii7WOndldyk0R.jpg" group-title="Filmes | Ficcao",Control: O Poder da Mente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: O Caminho da Água" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="Filmes | Ficcao",Avatar: O Caminho da Água
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg" group-title="Filmes | Ficcao",Atlas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Sem Memória" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/t3dTI1kMHMnf9CoLbit8RCcgYiW.jpg" group-title="Filmes | Ficcao",Um Homem Sem Memória
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shin Ultraman" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/w6E7MiAdPh0qA9ZqGKWmD4X1GUH.jpg" group-title="Filmes | Ficcao",Shin Ultraman
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Podcast" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/yrURBoc5zbeCuuilAJsmPcoBmqB.jpg" group-title="Filmes | Ficcao",O Podcast
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dentro de Nós" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/a9noXlmJhZCNvuAQmfH4FEjgsPz.jpg" group-title="Filmes | Ficcao",Dentro de Nós
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla e Kong: O Novo Império" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/kO6K9zEsKhNyqcrdGTSqAI6jrie.jpg" group-title="Filmes | Ficcao",Godzilla e Kong: O Novo Império
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Triângulo da Morte" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/it9D3yvCyAmNfqp6zz9lhh4dR97.jpg" group-title="Filmes | Ficcao",O Triângulo da Morte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Beira da Extinção" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/p0ui8pWEhARQyFK8XkZ0azf1qSl.jpg" group-title="Filmes | Ficcao",À Beira da Extinção
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E.T.: O Extraterrestre" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8j5igb0iuV9TYudw9SuMV5GT9K9.jpg" group-title="Filmes | Ficcao",E.T.: O Extraterrestre
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça: Crise nas Infinitas Terras - Parte 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg" group-title="Filmes | Ficcao",Liga da Justiça: Crise nas Infinitas Terras - Parte 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 2: A Marcadora de Cicatrizes" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ogU7c0vOTtPutuKjNtMKK7QR7PX.jpg" group-title="Filmes | Ficcao",Rebel Moon - Parte 2: A Marcadora de Cicatrizes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duna: Parte Dois" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg" group-title="Filmes | Ficcao",Duna: Parte Dois
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macaco vs. Máquina" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/isXDRoaeOm7BJVXVwPzPTnKWKqi.jpg" group-title="Filmes | Ficcao",Macaco vs. Máquina
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Experimento Assassino" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/34Q33Gvlbi1lHAcLrzVN2qY7SZC.jpg" group-title="Filmes | Ficcao",Experimento Assassino
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão Final" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/72B0zYm88mujhcn3wzLFCRKD80k.jpg" group-title="Filmes | Ficcao",Invasão Final
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Cão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iIk9Q09V2hOyRJBPwE3VpN5FEnx.jpg" group-title="Filmes | Ficcao",Mundo Cão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Misteriosa" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9b628PfbxwthMNYDdayNnB4mKnV.jpg" group-title="Filmes | Ficcao",A Garota Misteriosa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rebelião das Máquinas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8Alr6kZ7umrErulMM7FsuCHgwQJ.jpg" group-title="Filmes | Ficcao",A Rebelião das Máquinas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobreviventes - Depois do Terremoto" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zaiesbwmnE7A4mOINHArJQsIJyM.jpg" group-title="Filmes | Ficcao",Sobreviventes - Depois do Terremoto
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Astronauta" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/nzSJcUFe9a6lF6nxAyqP2cGgYjt.jpg" group-title="Filmes | Ficcao",O Astronauta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão Alienígena" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/brSrzHtB7BqWmiKPrNYc7j1eKkR.jpg" group-title="Filmes | Ficcao",A Invasão Alienígena
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Code 8: Renegados - Parte 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/exKPoGHDKF2bNJmUrduKrBNNtxi.jpg" group-title="Filmes | Ficcao",Code 8: Renegados - Parte 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Marvels" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/gmtrDKIKXRFkChgHGALZTiKDVo0.jpg" group-title="Filmes | Ficcao",As Marvels
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Ruínas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/vT3xahepzP796ei0NiZIZ6t8vsl.jpg" group-title="Filmes | Ficcao",Em Ruínas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque Alienígena" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pcZskycI534kMgEU759T9ag65JL.jpg" group-title="Filmes | Ficcao",Ataque Alienígena
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Kitchen" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg" group-title="Filmes | Ficcao",The Kitchen
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Relaxe, eu sou do futuro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lF0xbAJatRiBk8UNQ82ufi2vdjP.jpg" group-title="Filmes | Ficcao",Relaxe, eu sou do futuro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="57 Segundos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/kRLNtJ0dWUHhNt20NijeWhnLJ5E.jpg" group-title="Filmes | Ficcao",57 Segundos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pod Generation" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bJYYpb3dQUgJOavKUk8lkBFQhCS.jpg" group-title="Filmes | Ficcao",The Pod Generation
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intruso" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7he2IBkpbedIOJiBBq5LjY4ZCC5.jpg" group-title="Filmes | Ficcao",Intruso
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Portais" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/inOEAwyIveHVrg7rd3uu4bt7vDO.jpg" group-title="Filmes | Ficcao",Os Portais
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aporia" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8BnoaS3M8zEVE6pCkOoyyEjswCH.jpg" group-title="Filmes | Ficcao",Aporia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Agentes do Destino" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/cvepcobwgtLwCplwBihcvlgqd0A.jpg" group-title="Filmes | Ficcao",Os Agentes do Destino
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 1: A Menina do Fogo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg" group-title="Filmes | Ficcao",Rebel Moon - Parte 1: A Menina do Fogo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Invasores" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wTa17vyDah7zgOpmETbiMPqE0Uy.jpg" group-title="Filmes | Ficcao",Os Invasores
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/nNNxK2NwqHmAjuStya7SwOQeMwq.jpg" group-title="Filmes | Ficcao",Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silver e o Livro dos Sonhos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/mjCpMUo4VBFZhlLiqHUNXJwzuQ1.jpg" group-title="Filmes | Ficcao",Silver e o Livro dos Sonhos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paisagem com Mão Invisível" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/woSLmiZ1znce3dk3Uojhii8aDct.jpg" group-title="Filmes | Ficcao",Paisagem com Mão Invisível
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who: The Star Beast" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/dPeecB24xEsrnTxXCNoptx6DZVt.jpg" group-title="Filmes | Ficcao",Doctor Who: The Star Beast
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Bad" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wkOhKoHvOTpWj466njqyxfNw7Uk.jpg" group-title="Filmes | Ficcao",Big Bad
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio I - A Ameaça Fantasma" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg" group-title="Filmes | Ficcao",Star Wars: Episódio I - A Ameaça Fantasma
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contatos de 4º Grau" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/41uPD6OmmMVR3fmJK7Gzm2oN8xk.jpg" group-title="Filmes | Ficcao",Contatos de 4º Grau
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mar Infinito" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/e0Eo7TsarrZehKIZVP1xUipy9TU.jpg" group-title="Filmes | Ficcao",Mar Infinito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Massa Cinzenta" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/4EuZtw5Z6dVn5IOe7whR9Qy8UET.jpg" group-title="Filmes | Ficcao",Massa Cinzenta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Awareness: A Realidade é Uma Ilusão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/msgWkL23ZslTVZJRYJIng83mYny.jpg" group-title="Filmes | Ficcao",Awareness: A Realidade é Uma Ilusão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Efeito Mandela" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/jUYclnThcUpMB16Sfnh43o1FjPl.jpg" group-title="Filmes | Ficcao",O Efeito Mandela
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Escolhidos (2013)" tvg-logo="http://gstaticontent.com/images/229b97a434206dd2a4672ffe1afa42df.jpg" group-title="Filmes | Ficcao",Os Escolhidos (2013)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Besouro Azul" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg" group-title="Filmes | Ficcao",Besouro Azul
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Viajante do Tempo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/b6SZ2fme18X5EPj7zN6bxeNHjEP.jpg" group-title="Filmes | Ficcao",O Viajante do Tempo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Drones" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Filmes | Ficcao",Batalha dos Drones
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboys & Aliens" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg" group-title="Filmes | Ficcao",Cowboys & Aliens
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Wetware" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7NhzMMDyiHKOoOnEe4c8DYhu7Il.jpg" group-title="Filmes | Ficcao",Projeto Wetware
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Ithaca: Destruição Alienígena" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/t6v8i1ND88pVztcftWdC2KFvFNa.jpg" group-title="Filmes | Ficcao",Projeto Ithaca: Destruição Alienígena
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia: Vol. 3" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/4yycSPnchdNAZirGkmCYQwTd3cr.jpg" group-title="Filmes | Ficcao",Guardiões da Galáxia: Vol. 3
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tmGuklpV65Ve9vBNvGEMMQX6xR8.jpg" group-title="Filmes | Ficcao",Paraíso
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clonaram Tyrone!" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uLYdX64xJVZEFRQJZQU4A2ueMyB.jpg" group-title="Filmes | Ficcao",Clonaram Tyrone!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa - Parte 1: A Subversão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7RCLciIv2T9cXhliA0dHyi5EJsT.jpg" group-title="Filmes | Ficcao",A Bruxa - Parte 1: A Subversão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg" group-title="Filmes | Ficcao",The Flash
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner: O Caçador de Andróides" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/mNg0TQ0SGxtYSmqR9FkI2wHtC8Y.jpg" group-title="Filmes | Ficcao",Blade Runner: O Caçador de Andróides
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644650.mp4
