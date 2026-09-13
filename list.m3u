@@ -35,8 +35,8 @@ http://45.177.114.114/HISTORY_2/index.m3u8
 #EXTINF:-1 group-title="TV Aberta",Record TV 3
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8chunklist_b200000.m3u8
 
-#EXTINF:-1,ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1,History (1080p)
+http://45.177.114.114/HISTORY/index.m3u8
 
 #EXTINF:-1,J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
