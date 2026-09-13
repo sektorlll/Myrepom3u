@@ -24,6 +24,9 @@ https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1,Rede TV! (720p)
 http://45.162.64.114/REDE_TV/index.m3u8
 
+#EXTINF:-1,CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+
 #EXTINF:-1,ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
