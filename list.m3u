@@ -33,6 +33,9 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1,Gospel Movie TV (360p)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
+#EXTINF:-1 group-title="TV Aberta",TVM Filmes
+http://127.0.0.1:41065/httpAO VIVO/tjtor8411.com:80/live/332946/ycHWZM/218788.ts
+
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Undefined",Sony Channel (720p)
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
