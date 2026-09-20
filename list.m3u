@@ -30,6 +30,44 @@ http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Classic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4867
+
+#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime (3953)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3953
+
+#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Filmes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+
+#EXTINF:-1 tvg-logo="" group-title="Infantis",Toon Googles 10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=158
+
+#EXTINF:-1 tvg-logo="" group-title="Infantis",Toon Googles 11
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=172
+
+#EXTINF:-1 tvg-logo="" group-title="Infantis",Kartoon Channel!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=265
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",MMA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1330
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",PWTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1684
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Revry
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=762
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Revry 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
+
 #EXTINF:-1,ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
