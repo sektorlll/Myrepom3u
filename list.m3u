@@ -121,4 +121,44 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 group-title="Esportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="tv",tvclassic
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="tv",tvcuruça
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 group-title="tv",tvTedio
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 group-title="tv",tvmovie
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="tv",tvok
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2150
+#EXTINF:-1 group-title="tv",tvok1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2151
+#EXTINF:-1 group-title="tv",tvok2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 group-title="tv",tvok3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 group-title="tv",tvok4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2564
+#EXTINF:-1 group-title="tv",tvok5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2567
+#EXTINF:-1 group-title="tv",tvok6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2585
+#EXTINF:-1 group-title="tv",tvok7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
+#EXTINF:-1 group-title="tv",tvok8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
+#EXTINF:-1 group-title="tv",tvok9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020
+#EXTINF:-1 group-title="tv",tvok10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3030
+#EXTINF:-1 group-title="tv",tvok11
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3031
+#EXTINF:-1 group-title="tv",tvok12
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3032
+#EXTINF:-1 group-title="tv",tvo13
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3034
+#EXTINF:-1 group-title="tv",tvok13
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3040
+#EXTINF:-1 group-title="tv",tvok14
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 
