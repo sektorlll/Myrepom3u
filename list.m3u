@@ -29,6 +29,15 @@ http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1,CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
+#EXTINF:-1,A&E
+http://170.83.16.50/AeE/index.m3u8
+
+#EXTINF:-1,AMC
+http://170.83.49.66/AMCHD/index.m3u8
+
+#EXTINF:-1,TVAPLE
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
