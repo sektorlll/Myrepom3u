@@ -14,9 +14,6 @@ https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 group-title="TV Aberta",Record TV2
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV Aberta",Record TV SP
-http://tjtor8411.com:80/Osiel123/Felicidade321/96522.ts
-
 #EXTINF:-1 group-title="TV Aberta",SBT São Paulo
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
