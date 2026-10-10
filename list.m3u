@@ -1,170 +1,139 @@
 #EXTM3U
 
+# TV ABERTA
 #EXTINF:-1 group-title="TV Aberta",Globo TV
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 group-title="TV Aberta",Globo Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
-#EXTINF:-1,RBATV (720p)
+#EXTINF:-1 group-title="TV Aberta",RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Aberta",Record TVsp
+#EXTINF:-1 group-title="TV Aberta",Record TV SP
+http://tjtor8411.com:80/Osiel123/Felicidade321/96522.ts
+#EXTINF:-1 group-title="TV Aberta",Record TV Nacional
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
-
-#EXTINF:-1 group-title="TV Aberta",Record TV2
+#EXTINF:-1 group-title="TV Aberta",Record TV Alternativo
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
 #EXTINF:-1 group-title="TV Aberta",SBT São Paulo
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-
-#EXTINF:-1 group-title="Notícias",Record News (alternativo)
-https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
-
-#EXTINF:-1,Rede TV! (720p)
+#EXTINF:-1 group-title="TV Aberta",RedeTV!
 http://45.162.64.114/REDE_TV/index.m3u8
-
-#EXTINF:-1,CNN Brasil
-https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
-
-#EXTINF:-1,A&E
-http://170.83.16.50/AeE/index.m3u8
-
-#EXTINF:-1,AMC
-http://170.83.49.66/AMCHD/index.m3u8
-
-#EXTINF:-1,TVAPLE
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Classic
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4867
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime (3953)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3953
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Filmes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-
-#EXTINF:-1 tvg-logo="" group-title="Infantis",Toon Googles 10
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=158
-
-#EXTINF:-1 tvg-logo="" group-title="Infantis",Toon Googles 11
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=172
-
-#EXTINF:-1 tvg-logo="" group-title="Infantis",Kartoon Channel!
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=265
-
-#EXTINF:-1 tvg-logo="" group-title="Esportes",MMA TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1330
-
-#EXTINF:-1 tvg-logo="" group-title="Esportes",PWTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1684
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Revry
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=762
-
-#EXTINF:-1 tvg-logo="" group-title="Variedades",Revry 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Família
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-
-#EXTINF:-1 tvg-logo="" group-title="RunTime",RunTime TV e Filmes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
-#EXTINF:-1,ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-
-#EXTINF:-1,Gospel Movie TV (360p)
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-
+#EXTINF:-1 group-title="TV Aberta",TV Cultura
+http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 group-title="TV Aberta",TVM Filmes
 http://127.0.0.1:41065/httpAO VIVO/tjtor8411.com:80/live/332946/ycHWZM/218788.ts
 
-#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Undefined",Sony Channel (720p)
-http://170.83.16.50/SONY_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (720p)
-http://45.162.64.114/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1,History 2 Latin America Brazil (720p)
-http://45.177.114.114/HISTORY_2/index.m3u8
-
-#EXTINF:-1,History (1080p)
-http://45.177.114.114/HISTORY/index.m3u8
-
-#EXTINF:-1,J3NEWS TV
+# NOTÍCIAS
+#EXTINF:-1 group-title="Notícias",Record News
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="Notícias",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+#EXTINF:-1 group-title="Notícias",Jovem Pan News
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 group-title="Notícias",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 
-#EXTINF:-1,TV Cultura (720p)
-http://45.162.64.114/TV_CULTURA/index.m3u8
-
-#EXTINF:-1,Jovem Pan News (720p)
-http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
-
-#EXTINF:-1,Lamore Rock Show WebTV (720p)
-https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
-
-#EXTINF:-1,KpopTV Play (576p)
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-
-#EXTINF:-1 group-title="Infantil",Os Jetsons
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-
+# ESPORTES
+#EXTINF:-1 group-title="Esportes",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Esportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="tv",tvclassic
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 group-title="tv",tvcuruça
-https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 group-title="tv",tvTedio
-https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 group-title="tv",tvmovie
+#EXTINF:-1 group-title="Esportes",MMA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1330
+#EXTINF:-1 group-title="Esportes",PWTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1684
+
+# FILMES E SÉRIES
+#EXTINF:-1 group-title="Filmes e Séries",A&E
+http://170.83.16.50/AeE/index.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",AMC
+http://170.83.49.66/AMCHD/index.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",Sony Channel
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",History 2
+http://45.177.114.114/HISTORY_2/index.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",History
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 group-title="tv",tvok
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2150
-#EXTINF:-1 group-title="tv",tvok1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2151
-#EXTINF:-1 group-title="tv",tvok2
+#EXTINF:-1 group-title="Filmes e Séries",TV Apple
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",TV Classic
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",TV Curuçá
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",TV Tédio
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 group-title="Filmes e Séries",TV Movie
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+# RUNTIME
+#EXTINF:-1 group-title="RunTime",RunTime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 group-title="tv",tvok3
+#EXTINF:-1 group-title="RunTime",RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 group-title="RunTime",RunTime Classic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4867
+#EXTINF:-1 group-title="RunTime",RunTime 3953
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3953
+#EXTINF:-1 group-title="RunTime",RunTime Filmes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1 group-title="RunTime",RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 group-title="tv",tvok4
+#EXTINF:-1 group-title="RunTime",RunTime Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1 group-title="RunTime",RunTime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 group-title="RunTime",RunTime Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 group-title="RunTime",RunTime TV e Filmes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="RunTime",RunTime 2150
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2150
+#EXTINF:-1 group-title="RunTime",RunTime 2151
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2151
+#EXTINF:-1 group-title="RunTime",RunTime 2564
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2564
-#EXTINF:-1 group-title="tv",tvok5
+#EXTINF:-1 group-title="RunTime",RunTime 2567
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2567
-#EXTINF:-1 group-title="tv",tvok6
+#EXTINF:-1 group-title="RunTime",RunTime 2585
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2585
-#EXTINF:-1 group-title="tv",tvok7
+#EXTINF:-1 group-title="RunTime",RunTime 3018
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
-#EXTINF:-1 group-title="tv",tvok8
+#EXTINF:-1 group-title="RunTime",RunTime 3019
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
-#EXTINF:-1 group-title="tv",tvok9
+#EXTINF:-1 group-title="RunTime",RunTime 3020
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020
-#EXTINF:-1 group-title="tv",tvok10
+#EXTINF:-1 group-title="RunTime",RunTime 3030
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3030
-#EXTINF:-1 group-title="tv",tvok11
+#EXTINF:-1 group-title="RunTime",RunTime 3031
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3031
-#EXTINF:-1 group-title="tv",tvok12
+#EXTINF:-1 group-title="RunTime",RunTime 3032
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3032
-#EXTINF:-1 group-title="tv",tvo13
+#EXTINF:-1 group-title="RunTime",RunTime 3034
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3034
-#EXTINF:-1 group-title="tv",tvok13
+#EXTINF:-1 group-title="RunTime",RunTime 3040
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3040
-#EXTINF:-1 group-title="tv",tvok14
+#EXTINF:-1 group-title="RunTime",RunTime 3056
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 
+# INFANTIS
+#EXTINF:-1 group-title="Infantis",Toon Googles 10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=158
+#EXTINF:-1 group-title="Infantis",Toon Googles 11
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=172
+#EXTINF:-1 group-title="Infantis",Kartoon Channel!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=265
+#EXTINF:-1 group-title="Infantis",Os Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+# VARIEDADES E MÚSICA
+#EXTINF:-1 group-title="Variedades",Revry
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=762
+#EXTINF:-1 group-title="Variedades",Revry 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
+#EXTINF:-1 group-title="Música",Lamore Rock Show WebTV
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 group-title="Música",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
