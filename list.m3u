@@ -17,8 +17,8 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 group-title="TV Aberta",RedeTV!
 http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 group-title="TV Aberta",TV Cultura
-http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 group-title="TV Aberta",Tv sony
+http://170.83.16.50/SONY_CHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV Aberta",TVM Filmes
 http://127.0.0.1:41065/httpAO VIVO/tjtor8411.com:80/live/332946/ycHWZM/218788.ts
 
