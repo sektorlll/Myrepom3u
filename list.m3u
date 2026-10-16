@@ -43,6 +43,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1330
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1684
 
 # FILMES E SÉRIES
+Novo
+
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD" tvg-logo="https://raphmx00.com/Telecine/telecine_action_hd.png" group-title="Canais | Telecine",Telecine Action HD
+http://trx99z.com:80/D3KKrB/dUzu7e/83261
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://raphmx00.com/Telecine/telecine_pipoca_hd.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://trx99z.com:80/D3KKrB/dUzu7e/83264
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://raphmx00.com/Telecine/telecine_premium_hd.png" group-title="Canais | Telecine",Telecine Premium HD
+http://trx99z.com:80/D3KKrB/dUzu7e/83265
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD" tvg-logo="https://raphmx00.com/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+#EXTINF:-1 tvg-id="br#hbo-plus" tvg-name="HBO+ HD" tvg-logo="https://raphmx00.com/hboplus.png" group-title="Canais | HBO",HBO+ HD
+http://trx99z.com:80/D3KKrB/dUzu7e/83226
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO1 HD" tvg-logo="https://raphmx00.com/hbo1.png" group-title="Canais | HBO",HBO1 HD
+http://trx99z.com:80/D3KKrB/dUzu7e/83225
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO2 HD" tvg-logo="https://raphmx00.com/hbo2.png" group-title="Canais | HBO",HBO2 HD
+http://trx99z.com:80/D3KKrB/dUzu7e/83223
 #EXTINF:-1 group-title="Filmes e Séries",A&E
 http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 group-title="Filmes e Séries",AMC
