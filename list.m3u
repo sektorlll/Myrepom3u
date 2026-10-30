@@ -11,7 +11,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 http://tjtor8411.com:80/Osiel123/Felicidade321/96522.ts
 #EXTINF:-1 group-title="TV Aberta",Record TV Nacional
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
-#EXTINF:-1 group-title="TV Aberta",group-title="Record",Record TV Alternativo
+#EXTINF:-1 group-title="TV Aberta" group-title="Record",Record TV Alternativo
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 group-title="TV Aberta",SBT São Paulo
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
