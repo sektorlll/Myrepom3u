@@ -31,8 +31,6 @@ http://46.151.196.223:14450/
 http://46.151.196.223:14456/
 #EXTINF:-1 tvg-id="combate" tvg-name="Combate" group-title="CANAIS DE TV",Combate
 http://46.151.196.223:14468/
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Rede Vida" group-title="CANAIS DE TV",cinemax
-http://127.0.0.1:39859/http/erizadez79.online/live/123456789/123456789 /17623.ts
 #EXTINF:-1 tvg-id="6298" tvg-name="Canal 293" group-title="UOL Mais",Canal 6298
 https://video24.mais.uol.com.br/live/293.m3u8
 #EXTINF:-1 tvg-id="6298" tvg-name="Canal 6298" group-title="UOL Mais",Canal 6146
